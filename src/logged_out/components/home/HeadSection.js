@@ -132,7 +132,7 @@ function HeadSection(props) {
                             variant={isWidthUp('lg', width) ? 'h6' : 'body1'}
                             color="textSecondary"
                           >
-                            Exploring React JS
+                            Exploring ReactJS world
                           </Typography>
                         </Box>
                         <Button
